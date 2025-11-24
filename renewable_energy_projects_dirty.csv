@@ -1,0 +1,8 @@
+Project_ID,Project_Name,Country,Capacity_MW,Start_Year,Status,Estimated_Cost_MillionUSD,CO2_Reduction_tons_per_year
+101,Kainji Solar Expansion,Nigeria,50.0,2020.0,Operational,75.0,
+102,Lekki Wind Farm,Nigeria,,2021.0,Under Construction,120.0,85000.0
+103,Bauchi Biomass Plant,Nigeria,12.0,,Planning,,15000.0
+104,Nasarawa Mini‑Hydro,Nigeria,5.0,2019.0,,18.0,7000.0
+105,Abuja Solar Rooftop Program,Nigeria,3.5,2023.0,Operational,5.0,
+106,,Ghana,20.0,2020.0,Operational,40.0,30000.0
+107,Port Harcourt Waste‑to‑Energy,Nigeria,,2022.0,Planning,60.0,55000.0
